@@ -1,6 +1,0 @@
-/* Minimal reset */
-html, body { height: 100%; }
-body { margin: 0; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial; }
-
-/* Utility-ish helpers (tiny subset) */
-* { box-sizing: border-box; }
